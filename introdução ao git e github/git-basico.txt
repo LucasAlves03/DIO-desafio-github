@@ -1,0 +1,16 @@
+/*INTRODUÇÃO AO GIT */
+
+GUI > Graphic User Interface
+CLI > Command Line Interface
+CD > Change directory
+CLS > Clear Screen
+TAB > Auto-Complete
+CD .. > Volta a pasta
+MKDIR > Make directory > Cria pasta
+
+/* TÓPICOS FUNDAMENTAIS PARA ENTENDER O FUNCIONAMENTO DO GIT */
+
+- SHA1
+- Objetos fundamentais
+- Sistema distribuído
+- Segurança 
